@@ -83,5 +83,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@comake/rmlmapper-js": "^0.5.2",
+    "@rmlio/yarrrml-parser": "^1.7.2",
+    "xlsx-to-csv-ts": "^1.0.10"
   }
 }
